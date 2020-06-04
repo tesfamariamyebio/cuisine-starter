@@ -1,0 +1,33 @@
+body{font-family: 'Courgette', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 250px;
+}
+
+
+.row h1{font-style: italic;
+   
+margin-left:0px;}
+.address h3{margin:15px;
+}
+.address ul{list-style: none;
+}
+.address ul  li{ display:inline-block;
+}
+.address a i{color:black;
+           background-color: white;      
+}
+.address  i{color:white;
+    background-color: white;
+}
+footer{color:white;
+    background-color:black;
+    padding-top:20px;
+    padding-bottom:15px;
+    margin:0px;
+}
+footer a{color:white;
+      text-decoration: underline;
+}
+.row6 a{display:block;
+}
+.row7 h1{margin:0px}
