@@ -12,6 +12,11 @@ body{font-family: 'Courgette', cursive;
 
 .address h3{margin:15px;
 }
+.address h2{font-style: italic;
+           font-weight: bold;
+}
+.address h3{font-style: italic;
+    font-weight: 50px;}
 
 .address ul{list-style: none;
 }
@@ -20,7 +25,8 @@ body{font-family: 'Courgette', cursive;
 }
 
 .address a i{color:black;
-           background-color: white;      
+           background-color: white; 
+           padding:5px;     
 }
 
 .address  i{color:white;

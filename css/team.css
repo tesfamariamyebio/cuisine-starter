@@ -1,0 +1,33 @@
+
+.team{background-image: url(../imag/team/team-lg.jpg);
+      height: 400px;
+}
+
+.teamh{color: white;
+       font-weight: bold;
+       font-style: italic;
+       margin-top: 20px;
+}
+
+.teamgroup h2{font-style: italic;
+              font-weight:bold;
+}
+
+.teamgroup h4{font-weight:200;   
+}
+.teamgroup h3{font-style:italic;
+    
+}
+img{width:200px;
+    height:200px;
+    border-radius:50%;
+}
+
+.teamgroup{padding-top:20px;
+           padding-bottom: 20px;
+}
+
+.row6 a{display:block;
+}
+
+.row7 h1{margin:0px}

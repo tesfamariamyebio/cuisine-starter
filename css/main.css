@@ -25,15 +25,20 @@ header{background-image: url(../imag/header.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         text-align: center;
+        
+        opacity: 0.9px;
+        height: 250px;
+      
 
 }
 
 header img{margin-left:50px;
             width:100px;
-            height: 70px;
+            height: 80px;
+
 }
     
-.header-content{z-index:-10px;
+.header-content{z-index:10px;
                 padding-bottom: 35px;
                 padding-top:7px;
 }

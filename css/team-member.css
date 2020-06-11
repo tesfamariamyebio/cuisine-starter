@@ -1,0 +1,42 @@
+
+.team{background-image: url(../imag/team/team-lg.jpg);
+    height: 400px;
+}
+
+
+.photoantoine{color: white;
+             font-weight: bold;
+             font-style: italic;
+             margin-top: 40px;
+             text-align: center;
+}
+.teamgrouppost a{background-color: white;
+                 color:black;
+                 padding:5px;
+}
+
+
+img{width:200px;
+    height:200px;
+    border-radius:50%;
+}
+img{float:left;}
+
+p{text-align: justify;
+    padding-bottom: 15px;
+}
+footer{color:white;
+        background-color:black;
+        padding-top:20px;
+        padding-bottom:15px;
+        margin:0px;
+}
+
+footer a{color:white;
+         text-decoration: underline;
+}
+
+.row6 a{display:block;
+}
+
+.row7 h1{margin:0px}
